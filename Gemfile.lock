@@ -24,7 +24,7 @@ PATH
       kaminari
       mini_magick
       pg
-      rails (>= 4.2.6, < 5.0)
+      rails (>= 4.2.6, <= 5.1.2)
       simple_form
 
 GEM
